@@ -1,0 +1,11 @@
+{
+    "working": {
+        "goal": "COLLECT_WOOD",
+        "activity": "MOVING",
+        "danger": "LOW",
+        "updated": 1783023685774
+    },
+    "spatial": [],
+    "episodic": [],
+    "semantic": []
+}
