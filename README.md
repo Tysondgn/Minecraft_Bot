@@ -4,7 +4,7 @@ how to install.
 
 1. Clone Repository
 2. npm update
-3. npm index.js
+3. node index.js
 
 Before running file you need to add the port inside index.js from your Minecraft.
 
